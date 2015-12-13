@@ -6,7 +6,7 @@ module.exports = React.createClass({
       text: this.props.item.text
     }
   },
-  
+
   render: function() {
     return <div className="input-group">
       <span className="input-group-addon">
